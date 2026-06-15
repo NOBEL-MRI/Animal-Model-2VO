@@ -1,0 +1,15 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmr
+$$ 2023-06-06 14:52:26.109 +0200  nmr@CZC7039C06
+$$ /opt/PV6.0.1/data/nmr/20230606_141317_ML_21304_9_1_1/5/pdata/1/methreco
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$RetroFrequencyLock_OnOff=Off
+##$Edc_OnOff=On
+##$EdcManualFilter=No
+##$EdcFilterWidthHz=120
+$$ @vis= RetroFrequencyLock_OnOff Edc_OnOff EdcManualFilter MethodRecoGroup
+##END=
+$$ File finished by PARX at 2023-06-06 14:52:26.109 +0200

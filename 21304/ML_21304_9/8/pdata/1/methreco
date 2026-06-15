@@ -1,0 +1,14 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmr
+$$ 2023-06-06 14:56:36.938 +0200  nmr@CZC7039C06
+$$ /opt/PV6.0.1/data/nmr/20230606_141317_ML_21304_9_1_1/8/pdata/1/methreco
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$RecoMethMode=FieldMap
+##$MapSnr=10
+$$ @vis= RecoMethMode MapSnr MethRecoPars ShimCalibReportGroup
+$$ @vis= MethodRecoGroup
+##END=
+$$ File finished by PARX at 2023-06-06 14:56:36.938 +0200

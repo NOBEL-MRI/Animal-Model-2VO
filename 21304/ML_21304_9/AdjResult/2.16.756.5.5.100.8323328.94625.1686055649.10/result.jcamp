@@ -1,0 +1,15 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmr
+$$ 2023-06-06 14:50:35.640 +0200  nmr@CZC7039C06
+$$ /opt/PV6.0.1/data/nmr/20230606_141317_ML_21304_9_1_1/AdjResult/2.16.756.5.5.100.8323328.94625.1686055649.10/result.jcamp
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$PVM_StudyB0Map=(</opt/PV6.0.1/data/nmr>, <20230606_141317_ML_21304_9_1_1>, 
+6, 1)
+##$PVM_StudyB0MapShimset=(0, -1777, 7303, 32759, 32759, -667, -1015, 680, 
+-2994, 154, -1221, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0)
+##END=
+$$ File finished by PARX at 2023-06-06 14:50:35.640 +0200

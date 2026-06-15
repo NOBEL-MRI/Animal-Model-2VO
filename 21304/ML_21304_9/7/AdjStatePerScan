@@ -1,0 +1,27 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmr
+$$ 2023-06-06 14:58:32.811 +0200  nmr@CZC7039C06
+$$ /opt/PV6.0.1/data/nmr/20230606_141317_ML_21304_9_1_1/7/AdjStatePerScan
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$AdjScanStateCompleted=Yes
+##$AdjScanStateAdjName=( 4, 128 )
+<SHIM_Scan> <ArrayPhase> <ReferenceScan> <RCVR_Standard>
+##$AdjScanStateCategory=( 4 )
+SHIM OTHERADJ OTHERADJ RCVR
+##$AdjScanStateTime=( 4 )
+<2023-06-06T14:57:01,057+0200> <2023-06-06T14:57:35,939+0200> 
+<2023-06-06T14:58:02,372+0200> <2023-06-06T14:58:12,264+0200>
+##$AdjScanStateExpno=( 4 )
+7 7 7 7
+##$AdjScanStateState=( 4 )
+adj_successful adj_successful adj_successful adj_successful
+##$AdjScanStateResultId=( 4, 65 )
+<2.16.756.5.5.100.8323328.109753.1686056220.13> <> <> 
+<2.16.756.5.5.100.8323328.109753.1686056220.16>
+##$AdjScanStateMethod=( 4, 128 )
+<Bruker:AdjShim> <Bruker:STEAM> <Bruker:STEAM> <Bruker:STEAM>
+##END=
+$$ File finished by PARX at 2023-06-06 14:58:32.812 +0200

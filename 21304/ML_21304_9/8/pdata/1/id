@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmr
+$$ 2023-06-06 14:56:36.938 +0200  nmr@CZC7039C06
+$$ /opt/PV6.0.1/data/nmr/20230606_141317_ML_21304_9_1_1/8/pdata/1/id
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$DATASET_KEY=( 65 )
+<2.16.756.5.5.100.8323328.103934.1686056196.13>
+##END=
+$$ File finished by PARX at 2023-06-06 14:56:36.938 +0200
